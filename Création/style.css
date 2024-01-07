@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+body{
+    background: url("https://images.alphacoders.com/288/288653.jpg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'MedievalSharp';
+    z-index: -1;
+}    
+
+.conteneur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bandeau{
+    padding: 20px;
+    background: url("https://t3.ftcdn.net/jpg/03/66/10/14/240_F_366101427_8yazUJK82fDrLi4YtpnQO3DJ4dTygxoe.jpg") no-repeat center center;
+    background-size: cover;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color:black;
+}
